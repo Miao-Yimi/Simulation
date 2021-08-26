@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/buttonImages">
+        <file>Pictures/stationbutton.jpg</file>
+        <file>Pictures/sourcebutton.jpg</file>
+        <file>Pictures/linebutton.jpg</file>
+        <file>Pictures/drainbutton.jpg</file>
+        <file>Pictures/transportbutton.jpg</file>
+    </qresource>
+</RCC>
